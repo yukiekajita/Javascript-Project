@@ -7,9 +7,15 @@
 * Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code that appended a table to the web page and then added new rows of data for each UFO sighting.
 
 * I used a date form in the HTML document and wrote JavaScript code that showed events and search through the `date/time` column to find rows that match user input.
+* The website image: Opening page
+
 ![UFO_Level_1_All](Images/UFO_Level_1_All.png)
 
+
+* The website image: Date Selected Image (1/9/2010)
+
 ![UFO_Level_1_Date_Selection](Images/UFO_Level_1_Date_Selection.png)
+
 
 ### Level 2: Multiple Search Categories (Optional)
 
