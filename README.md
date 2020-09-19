@@ -17,14 +17,26 @@
 ![UFO_Level_1_Date_Selection](Images/UFO_Level_1_Date_Selection.png)
 
 
-### Level 2: Multiple Search Categories (Optional)
+### Level 2: Multiple Search Categories
 
-* Complete all of Level 1 criteria.
+* Using multiple `input` tags, I wrote JavaScript code to set multiple filters and searches for UFO sightings using the following criteria based on the table columns:
 
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+  1. date
+  2. city
+  3. state
+  4. country
+  5. shape
 
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
+* The website image: Opening page
+
+
+![UFO_Level_2_All](Images/UFO_Level_2_All.png)
+
+
+* The website image: Multiple filters and searches (1/4/2010 & CA)
+
+
+![UFO_Level_2_Selection](Images/UFO_Level_2_Selection.png)
+
+Enjoy!
+
