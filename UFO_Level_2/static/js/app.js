@@ -70,7 +70,7 @@ clickHandler.on("click", function () {
     filteredData = filteredData.filter(data => data.shape === inputShape);
   };
 
-  // Delete entered values from the input box
+  // Delete entered values from the input box when the search data showed
   d3.selectAll('input').property('value','');
 
 showTable(filteredData);
