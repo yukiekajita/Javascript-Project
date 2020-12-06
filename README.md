@@ -1,12 +1,10 @@
 # Javascript-UFO Sighting Project
 
-### Level 1: Automatic Table and Date Search
-
-* I created a basic HTML web page with a starterCode/index.html file 
+### Project 1: Automatic Table and Date Search
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code that appended a table to the web page and then added new rows of data for each UFO sighting.
 
-* I used a date form in the HTML document and wrote JavaScript code that showed events and search through the `date/time` column to find rows that match user input.
+* I used a date form in the HTML document and wrote JavaScript code that showed events and searched through the `date/time` column to find rows that matched user input.
 * The website image: Opening page
 
 ![UFO_Level_1_All](Images/UFO_Level_1_All.png)
