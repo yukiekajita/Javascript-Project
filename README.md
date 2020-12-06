@@ -15,7 +15,7 @@
 ![UFO_Level_1_Date_Selection](Images/UFO_Level_1_Date_Selection.png)
 
 
-### Level 2: Multiple Search Categories
+### Project 2: Multiple Search Categories
 
 * Using multiple `input` tags, I wrote JavaScript code to set multiple filters and searches for UFO sightings using the following criteria based on the table columns:
 
